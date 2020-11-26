@@ -4,6 +4,7 @@ Demo UI Containing :
  - Gridview 
  - BottomNavigationBar with CircularNotched floting ActionButton
  - App Direction RTL ( Demo is in Arabic, so app direction is from Right to Left)
+ - Data Load Dynamically from REST API
 
 ![](ScreenSoot/1.jpeg)
 
