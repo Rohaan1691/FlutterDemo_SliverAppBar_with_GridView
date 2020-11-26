@@ -5,12 +5,12 @@ Demo UI Containing :
  - BottomNavigationBar with CircularNotched floting ActionButton
  - App Direction RTL ( Demo is in Arabic, so app direction is from Right to Left)
 
-![](ScreenSoot/1.jpg)
+![](ScreenSoot/1.jpeg)
 
-![](ScreenSoot/2.jpg)
+![](ScreenSoot/2.jpeg)
 
-![](ScreenSoot/3.jpg)
+![](ScreenSoot/3.jpeg)
 
-![](ScreenSoot/4.jpg)
+![](ScreenSoot/4.jpeg)
 
-![](ScreenSoot/5.jpg)
+![](ScreenSoot/5.jpeg)
